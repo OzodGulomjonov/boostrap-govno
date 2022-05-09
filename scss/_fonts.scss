@@ -1,0 +1,73 @@
+// FONTS
+
+@font-face {
+   font-family: 'Lora';
+   src: url('../fonts/Lora-Bold.ttf') format('woff2'),
+       url('Lora-Bold.woff') format('woff');
+   font-weight: bold;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Lora';
+   src: url('../fonts/Lora-Medium.ttf') format('woff2'),
+       url('Lora-Medium.woff') format('woff');
+   font-weight: 500;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Lora';
+   src: url('../fonts/Lora-Regular.ttf') format('woff2'),
+       url('Lora-Regular.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Lora';
+   src: url('../fonts/Lora-SemiBold.ttf') format('woff2'),
+       url('Lora-SemiBold.woff') format('woff');
+   font-weight: 600;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Oxygen';
+   src: url('../fonts/Oxygen-Bold.ttf') format('woff2'),
+       url('Oxygen-Bold.woff') format('woff');
+   font-weight: bold;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Oxygen';
+   src: url('../fonts/Oxygen-Light.ttf') format('woff2'),
+       url('Oxygen-Light.woff') format('woff');
+   font-weight: 300;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Oxygen';
+   src: url('../fonts/Oxygen-Regular.ttf') format('woff2'),
+       url('Oxygen-Regular.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Lora';
+   src: url('../fonts/Oxygen-Regular.ttf') format('woff2'),
+       url('Lora-Regular.woff') format('woff');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}

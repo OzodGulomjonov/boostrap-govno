@@ -1,0 +1,95 @@
+.featured-content {
+}
+
+.featured-content__heading {
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 27px;
+   text-align: center;
+   color: #2E2E2E;   
+}
+
+.featured-content__list {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   // display: flex;
+   // align-items: center;
+   // justify-content: space-between;
+   margin-top: 30px;
+}
+
+.item {
+   background-image: url(../../img/bola.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.featured-content__span {
+   background-color: #DEDEDE;
+   max-width: 188px;
+   display: block;
+   width: 100%;
+   height: 1px;
+   margin: 0 auto;
+}
+
+.featured-content__item {
+   box-sizing: border-box;
+   padding: 20px;
+   max-width: 460px;
+   width: 100%;
+   background-image: url(../../img/yogdu.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.featured-content__item-heading {
+   font-weight: 400;
+   font-size: 27px;
+   line-height: 30px;   
+   color: #FFFFFF;
+   font-family: 'Lora';
+   margin: 0;
+   padding-top: 137px;
+}
+
+.featured-content__item-text {
+   font-weight: 400;   
+   font-size: 14px;
+   line-height: 25px;
+   color: rgba(255, 255, 255, 0.7);
+}
+
+.featured-content__item-wrapper {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+
+.featured-content__item-name-wrapper {
+   display: flex;
+   align-items: center;
+}
+
+.featured-content__item-img {
+
+}
+
+.featured-content__item-name {
+   margin-left: 10px;
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 35px;   
+   color: rgba(255, 255, 255, 0.7);
+   margin: 0;
+   margin-left: 10px;
+}
+
+.featured-content__item-data {
+   font-weight: 400;
+   font-size: 12px;
+   line-height: 35px;   
+   color: rgba(255, 255, 255, 0.7);
+   margin: 0;
+}
